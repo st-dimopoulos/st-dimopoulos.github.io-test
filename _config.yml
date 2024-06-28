@@ -3,3 +3,6 @@ description: Stamatis Dimopoulos - Personal Webpage
 theme: just-the-docs
 
 url: https://st-dimopoulos.github.io/
+
+plugins:
+    - jekyll-default-layout
